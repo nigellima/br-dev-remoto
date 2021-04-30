@@ -123,7 +123,7 @@ Na seção de `Work Experience`, para cada experiência, adicione os highlights 
 
 Um ótimo site para encontrar templates, editá-los e baixa-los é o [Canva](https://www.canva.com).
 
-Segue um [exemplo]() de currículo de um Software Engineer de apenas 1 pagina e com todas as informações essenciais.
+Segue um [exemplo](https://github.com/nigellima/br-dev-remoto/blob/main/TEMPLATE_RESUME.pdf) de currículo de um Software Engineer de apenas 1 pagina e com todas as informações essenciais.
 
 ### LinkedIn e Github
 
