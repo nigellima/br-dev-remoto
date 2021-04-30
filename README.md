@@ -46,11 +46,6 @@ Podendo ser classificado como um Marketplace, a Toptal é uma plataforma que fun
 Empresa de outsourcing que possui bastante brasileiros. Também possui um seletivo de entrada (segundo eles, 1% passa) e, uma vez la dentro, o profissional é alocado para projetos com os clientes.
 
 
-### [BairesDev](https://www.bairesdev.com/)
-
-Empresa de outsourcing que possui bastante brasileiros. Também possui um seletivo de entrada (segundo eles, 1% passa) e, uma vez la dentro, o profissional é alocado para projetos com os clientes.
-
-
 ### [Upwork](https://www.upwork.com/)
 
 Plataforma de freelancing, onde você cria um perfil e aplica para projetos pequenos.
@@ -117,7 +112,7 @@ Lista de preparativos para iniciar os processos de candidaturas:
 
 ### Currículo em PDF
 
-No máximo, 1 página. Sim, apenas 1 página. Isso facilita pros recrutadores que precisam avaliar um volume muito grande de candidaturas diariamente. Então, pra que isso seja possível, deixe no currículo apenas o que é relevante para a vaga. Dependendo da vaga, talvez seja interessante customiza-lo.
+No caso de vagas oefercidas nos EUA, é recomendado que o currículo tenha no máximo, 1 página. Sim, apenas 1 página. Isso facilita pros recrutadores que precisam avaliar um volume muito grande de candidaturas diariamente. Pra profissionais com experiência muito vasta ou mais de 10 anos de carreira, o interessante é ter entre 1.5-2 páginas. Então, pra que isso seja possível, deixe no currículo apenas o que é relevante para a vaga. Dependendo da vaga, talvez seja interessante customiza-lo.
 
 Na seção de `Work Experience`, para cada experiência, adicione os highlights das suas funções, por exemplo: "Increased the API performance by 10%".
 
