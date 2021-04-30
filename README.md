@@ -4,7 +4,7 @@
 
 Olá, dev!
 
-Este documento é um compilado de dicas para dar inicio à procura e candidatura para vagas de trabalho remoto oferecidas em outros países (ou mesmo nacionais).
+Este documento é um compilado de dicas para dar inicio à procura e candidatura para vagas de trabalho remoto oferecidas em outros países (ou mesmo nacionais). Sinta-se a vontade de abrir um PR ou uma Issue caso queira contribuir com alguma correção ou adicionar alguma informação 😊
 
 
 ## **Onde procurar**
