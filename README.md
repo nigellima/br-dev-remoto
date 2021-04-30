@@ -139,7 +139,7 @@ Pratique por um tempo os problemas presentes na plataforma Codility ou no Hacker
 
 ### [Clean Code](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=asc_df_B001GSTOAM/?tag=googleshopp00-20&linkCode=df0&hvadid=379765265654&hvpos=&hvnetw=g&hvrand=18202636381159094709&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001561&hvtargid=pla-406130706465&psc=1)
 
-Livro excelente com conceitos para o seu código ser cada vez mais limpo, legivel e escalável. Para desenvolvedors JavaScript, existe [esse](https://github.com/ryanmcdermott/clean-code-javascript) repositório que resume os conceitos dentro do contexto do JavaScript.
+Livro excelente com conceitos para o seu código ser cada vez mais limpo, legivel e escalável. Para desenvolvedores JavaScript, existe [esse](https://github.com/ryanmcdermott/clean-code-javascript) repositório que resume os conceitos dentro do contexto do JavaScript.
 
 
 ### [Cracking the code interview](https://www.amazon.com.br/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?adgrpid=84193366954&dchild=1&gclid=Cj0KCQjwsqmEBhDiARIsANV8H3YSINUTViuJ3jqCufErKCfqoFrRoASBrl8ji5W36phBRTIZt9Iuo6saAiHuEALw_wcB&hvadid=426016286105&hvdev=c&hvlocphy=1001561&hvnetw=g&hvqmt=e&hvrand=904824903479524410&hvtargid=kwd-300710803845&hydadcr=5658_11235231&keywords=cracking+the+code+interview&qid=1619742058&sr=8-1)
