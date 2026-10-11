@@ -26,6 +26,10 @@ Parecida com o LinkedIn, a Torre é uma plataforma onde você cria um perfil pro
 Um dos sites com maior fluxo de postagem de vagas diariamente. Você encontra vagas de forma simples, pode filtrar pelo tipo de vaga que procura (ex: Frontend) e ainda possui uma seção que lista as empresas que mais procuram profissionais remotamente. Além disso, a maior parte das vagas são de empresas contratando para vagas full-time com longos contratos.
 
 
+### [Jaabz](https://jaabz.com/)
+
+Plataforma focada em vagas de tech internacionais com filtros de visa sponsorship, relocation e remote. Útil para quem busca oportunidades com suporte de visto ou remotas com elegibilidade clara.
+
 ### [Landing.jobs](https://landing.jobs)
 
 Site europeu, onde você cria o seu perfil profissional e pode aplicar para as vagas tanto pelo perfil como indo direto para a postagem da vaga sem precisar logar. A maior parte das vagas é de Portugal e variam entre remotas, parcialmente remotas ou de relocação. Além disso, você pode filtrar por empresas que oferecem suporte de Visto ou não.
